@@ -1,0 +1,20 @@
+{
+  "name": "ussr-collapse",
+  "version": "1.0.0",
+  "description": "苏联解体百论",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "keywords": [
+    "honkit",
+    "gitbook",
+    "ussr"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "honkit": "^6.0.3"
+  }
+}
