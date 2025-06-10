@@ -1,0 +1,12 @@
+# GitBook生成的文件
+_book
+
+# Node.js依赖
+node_modules
+
+# 日志文件
+*.log
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
