@@ -28,6 +28,11 @@ jobs:
     - name: Install Honkit
       run: npm install honkit --save-dev
 
+    - name: Remove PDF and EPUB files
+      run: |
+        rm -f *.pdf
+        rm -f *.epub
+
     - name: Build Honkit
       run: npx honkit build
 
